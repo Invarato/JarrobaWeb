@@ -1,0 +1,25 @@
+body {
+	margin: 3em;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+	font-size: 2em;
+}
+
+p {
+	font-size: 1.2em;
+}
+
+img {
+	width: 10em;
+}
+
+div {
+	background-color: lightgray;
+	margin: 1em;
+
+	display: flex;
+	justify-content: space-around;	
+}
