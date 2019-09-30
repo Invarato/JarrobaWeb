@@ -1,5 +1,5 @@
 # Artículo relaccionado con la web de www.Jarroba.com
-El código de esta carpeta forma parte del artículo https://jarroba.com/
+El código de esta carpeta forma parte del artículo https://jarroba.com/lamp-paso-a-paso-en-tu-servidor/
 
 
 # Colocar los ficheros
